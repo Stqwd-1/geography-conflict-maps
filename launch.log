@@ -1,0 +1,695 @@
+[20:11:50] Backend: уже запущен (порт 8000)
+[20:11:50] Frontend: уже запущен (порт 5173)
+[20:11:50] Открываю браузер: http://localhost:5173
+[20:11:50] Готово. Страница: http://localhost:5173
+[20:11:51] Backend: уже запущен (порт 8000)
+[20:11:51] Frontend: уже запущен (порт 5173)
+[20:11:51] Открываю браузер: http://localhost:5173
+[20:11:51] Готово. Страница: http://localhost:5173
+[20:20:10] Backend: уже запущен (порт 8000)
+[20:20:10] Frontend: уже запущен (порт 5173)
+[20:20:10] Открываю браузер: http://localhost:5173
+[20:20:10] Готово. Страница: http://localhost:5173
+[20:28:41] Backend: уже запущен (порт 8000)
+[20:28:41] Frontend: уже запущен (порт 5173)
+[20:28:41] Открываю браузер: http://localhost:5173
+[20:28:41] Готово. Страница: http://localhost:5173
+[20:28:49] Backend: уже запущен (порт 8000)
+[20:28:49] Frontend: уже запущен (порт 5173)
+[20:28:49] Открываю браузер: http://localhost:5173
+[20:28:49] Готово. Страница: http://localhost:5173
+[20:29:10] Backend: уже запущен (порт 8000)
+[20:29:10] Frontend: уже запущен (порт 5173)
+[20:29:10] Открываю браузер: http://localhost:5173
+[20:29:10] Готово. Страница: http://localhost:5173
+[21:25:56] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:26:00] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:26:00] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:26:00] Backend: готов
+[21:26:00] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 959 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.8:5173/
+[21:26:04] Frontend: готов
+[21:26:04] Открываю браузер: http://localhost:5173
+[21:26:04] Готово. Страница: http://localhost:5173
+[21:26:11] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:26:17] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:26:17] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:26:17] Backend: готов
+[21:26:17] Frontend: уже запущен (порт 5173)
+[21:26:17] Открываю браузер: http://localhost:5173
+[21:26:17] Готово. Страница: http://localhost:5173
+21:26:20 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:20 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:20 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:20 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:27 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:27 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:27 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:26:27 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+[21:26:54] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:26:59] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:26:59] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:26:59] Backend: готов
+[21:26:59] Frontend: уже запущен (порт 5173)
+[21:26:59] Открываю браузер: http://localhost:5173
+[21:26:59] Готово. Страница: http://localhost:5173
+21:27:07 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:07 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:07 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:07 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+[21:27:37] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:27:41] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:27:41] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:27:41] Backend: готов
+[21:27:41] Frontend: уже запущен (порт 5173)
+[21:27:41] Открываю браузер: http://localhost:5173
+[21:27:41] Готово. Страница: http://localhost:5173
+[21:27:45] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:27:49] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:27:50] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:27:50] Backend: готов
+[21:27:50] Frontend: уже запущен (порт 5173)
+[21:27:50] Открываю браузер: http://localhost:5173
+[21:27:50] Готово. Страница: http://localhost:5173
+21:27:54 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+21:27:54 [vite] http proxy error: /api/geojson/?
+Error: connect ECONNREFUSED 127.0.0.1:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1638:16)
+[21:29:23] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:29:28] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:28] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:29:28] Backend: готов
+[21:29:28] Frontend: уже запущен (порт 5173)
+[21:29:28] Открываю браузер: http://localhost:5173
+[21:29:28] Готово. Страница: http://localhost:5173
+[15/Sep/2026 18:29:36] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:45] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:45] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:45] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:45] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:29:52] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[15/Sep/2026 18:31:22] "GET /api/conflicts/russian-civil-war/ HTTP/1.1" 200 2669
+[15/Sep/2026 18:31:40] "GET /api/conflicts/pacific-war/ HTTP/1.1" 200 2715
+Performing system checks...
+
+September 15, 2026 - 18:29:27
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/
+[21:39:38] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:39:42] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:39:42] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:39:42] Backend: готов
+[21:39:43] Frontend: уже запущен (порт 5173)
+[21:39:43] Открываю браузер: http://localhost:5173
+[21:39:43] Готово. Страница: http://localhost:5173
+[21:40:14] Backend: уже запущен (порт 8000)
+[15/Sep/2026 18:40:14] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:40:14] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 932 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.8:5173/
+[21:40:19] Frontend: готов
+[21:40:19] Открываю браузер: http://localhost:5173
+[21:40:19] Готово. Страница: http://localhost:5173
+[15/Sep/2026 18:40:29] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:40:29] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:40:30] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:40:30] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:40:45] "GET /api/conflicts/pacific-war/ HTTP/1.1" 200 2715
+Performing system checks...
+
+September 15, 2026 - 18:39:41
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/
+[21:42:35] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:42:39] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:42:39] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:42:39] Backend: готов
+[21:42:39] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 934 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.8:5173/
+[21:42:44] Frontend: готов
+[21:42:44] Открываю браузер: http://localhost:5173
+[21:42:44] Готово. Страница: http://localhost:5173
+[15/Sep/2026 18:42:54] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:42:54] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:42:54] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:42:55] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:42:55] "GET /api/geojson/? HTTP/1.1" 200 90283
+21:46:51 [vite] (client) hmr update /src/components/ConflictMap.jsx
+21:47:16 [vite] (client) hmr update /src/components/ConflictMap.jsx
+21:47:23 [vite] (client) hmr update /src/components/ConflictMap.jsx
+21:47:27 [vite] (client) hmr update /src/components/ConflictMap.jsx
+21:47:33 [vite] (client) hmr update /src/App.css
+[21:50:54] Backend: уже запущен (порт 8000)
+[15/Sep/2026 18:50:54] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:50:54] Frontend: уже запущен (порт 5173)
+[21:50:54] Открываю браузер: http://localhost:5173
+[21:50:54] Готово. Страница: http://localhost:5173
+[15/Sep/2026 18:51:11] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:51:11] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:51:12] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:51:12] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:51:58] "GET /api/conflicts/pacific-war/ HTTP/1.1" 200 2715
+Performing system checks...
+
+September 15, 2026 - 18:42:38
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/
+[21:53:29] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[15/Sep/2026 18:53:34] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:53:34] "GET /api/geojson/ HTTP/1.1" 200 90283
+[21:53:34] Backend: готов
+[21:53:34] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 760 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.1.8:5173/
+[21:53:37] Frontend: готов
+[21:53:37] Открываю браузер: http://localhost:5173
+[21:53:37] Готово. Страница: http://localhost:5173
+[15/Sep/2026 18:53:51] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:53:51] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:53:52] "GET /api/geojson/? HTTP/1.1" 200 90283
+[15/Sep/2026 18:53:52] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15/Sep/2026 18:54:15] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[15/Sep/2026 18:55:59] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[15/Sep/2026 18:56:00] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[15/Sep/2026 18:56:01] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[15/Sep/2026 18:56:01] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[15/Sep/2026 18:56:01] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[15/Sep/2026 18:56:15] "GET /api/geojson/?status=active HTTP/1.1" 200 10274
+[15/Sep/2026 18:56:24] "GET /api/geojson/?status=active&cause=territorial HTTP/1.1" 200 1309
+[15/Sep/2026 18:56:29] "GET /api/geojson/?status=active&cause=territorial&severity=local HTTP/1.1" 200 42
+[15/Sep/2026 18:56:32] "GET /api/geojson/?status=active&cause=economic&severity=local HTTP/1.1" 200 453
+[15/Sep/2026 18:56:34] "GET /api/geojson/?status=resolved&cause=economic&severity=local HTTP/1.1" 200 435
+[15/Sep/2026 18:56:39] "GET /api/geojson/?status=resolved&cause=territorial&severity=local HTTP/1.1" 200 3800
+[15/Sep/2026 18:56:43] "GET /api/geojson/?status=resolved&cause=territorial&severity=local&min_parties=1 HTTP/1.1" 200 3800
+[15/Sep/2026 18:56:43] "GET /api/geojson/?status=resolved&cause=territorial&severity=local&min_parties=2 HTTP/1.1" 200 3800
+[15/Sep/2026 18:56:44] "GET /api/geojson/?status=resolved&cause=territorial&severity=local&min_parties=3 HTTP/1.1" 200 3800
+[15/Sep/2026 18:56:46] "GET /api/geojson/? HTTP/1.1" 200 90283
+Performing system checks...
+
+September 15, 2026 - 18:53:33
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/
+[10:14:10] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[16/Sep/2026 07:14:14] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 07:14:14] "GET /api/geojson/ HTTP/1.1" 200 90283
+[10:14:14] Backend: готов
+[10:14:14] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 886 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.43.40:5173/
+[10:14:19] Frontend: готов
+[10:14:19] Открываю браузер: http://localhost:5173
+[10:14:19] Готово. Страница: http://localhost:5173
+[16/Sep/2026 07:14:31] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 07:14:32] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 07:14:32] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 07:14:32] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 07:14:42] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[16/Sep/2026 07:15:37] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[16/Sep/2026 07:16:03] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[16/Sep/2026 07:16:05] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+[16/Sep/2026 07:16:40] "GET /api/conflicts/russian-civil-war/ HTTP/1.1" 200 2669
+[16/Sep/2026 07:17:13] "GET /api/conflicts/crimean-war/ HTTP/1.1" 200 1936
+[16/Sep/2026 07:17:32] "GET /api/conflicts/pacific-war/ HTTP/1.1" 200 2715
+[16/Sep/2026 07:17:51] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+Performing system checks...
+
+September 16, 2026 - 07:14:13
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/
+[13:10:15] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[16/Sep/2026 10:10:19] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:10:20] "GET /api/geojson/ HTTP/1.1" 200 90283
+[13:10:20] Backend: готов
+[13:10:20] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 2095 ms
+
+  ➜  Local:   http://localhost:5173/
+[13:13:29] Frontend: готов
+[13:13:29] Открываю браузер: http://localhost:5173
+[13:13:29] Готово. Страница: http://localhost:5173
+[16/Sep/2026 10:13:44] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:13:44] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:13:45] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:13:45] "GET /api/geojson/? HTTP/1.1" 200 90283
+[13:15:10] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[16/Sep/2026 10:15:13] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:13] "GET /api/geojson/ HTTP/1.1" 200 90283
+[13:15:13] Backend: готов
+[13:15:13] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 879 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.43.40:5173/
+[13:15:18] Frontend: готов
+[13:15:18] Открываю браузер: http://localhost:5173
+[13:15:18] Готово. Страница: http://localhost:5173
+[16/Sep/2026 10:15:19] "GET /api/geojson/ HTTP/1.1" 200 90283
+[13:15:19] Backend: уже запущен (порт 8000)
+[13:15:19] Frontend: уже запущен (порт 5173)
+[13:15:19] Открываю браузер: http://localhost:5173
+[13:15:19] Готово. Страница: http://localhost:5173
+[16/Sep/2026 10:15:20] "GET /api/geojson/ HTTP/1.1" 200 90283
+[13:15:20] Backend: уже запущен (порт 8000)
+[13:15:20] Frontend: уже запущен (порт 5173)
+[13:15:20] Открываю браузер: http://localhost:5173
+[13:15:20] Готово. Страница: http://localhost:5173
+[16/Sep/2026 10:15:35] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:35] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:35] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:36] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:36] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:36] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:38] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:38] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:39] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 10:15:39] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 10:16:07] "GET /api/conflicts/tajikistan-civil-war/ HTTP/1.1" 200 1872
+[16/Sep/2026 10:17:23] "GET /api/conflicts/belarus-2020-protests/ HTTP/1.1" 200 2043
+[16/Sep/2026 10:17:44] "GET /api/conflicts/world-war-two/ HTTP/1.1" 200 2639
+[16/Sep/2026 10:18:01] "GET /api/conflicts/war-1812/ HTTP/1.1" 200 2085
+14:49:45 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 11:50:50] "GET /api/geojson/ HTTP/1.1" 200 90283
+[14:50:50] Backend: уже запущен (порт 8000)
+[14:50:51] Frontend: уже запущен (порт 5173)
+[14:50:51] Открываю браузер: http://localhost:5173
+[14:50:51] Готово. Страница: http://localhost:5173
+[16/Sep/2026 11:50:55] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 11:50:55] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 11:50:55] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 11:50:55] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 11:51:31] "GET /api/conflicts/belarus-2020-protests/ HTTP/1.1" 200 2043
+[16/Sep/2026 11:55:46] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2582
+15:07:42 [vite] (client) hmr update /src/components/Sidebar.jsx
+15:07:53 [vite] (client) hmr update /src/components/Sidebar.jsx
+15:20:07 [vite] (client) hmr update /src/App.jsx
+15:20:10 [vite] Internal server error: Failed to resolve import "./components/ComparePanel" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/stas/Desktop/conflict-map/frontend/src/App.jsx:5:25
+  20 |  import FiltersPanel from "./components/FiltersPanel";
+  21 |  import Sidebar from "./components/Sidebar";
+  22 |  import ComparePanel from "./components/ComparePanel";
+     |                            ^
+  23 |  import Timeline from "./components/Timeline";
+  24 |  import "./App.css";
+      at TransformPluginContext._formatLog (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+15:20:20 [vite] (client) page reload src/flags.js
+15:20:21 [vite] (client) Pre-transform error: Failed to resolve import "./components/ComparePanel" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/stas/Desktop/conflict-map/frontend/src/App.jsx:5:25
+  20 |  import FiltersPanel from "./components/FiltersPanel";
+  21 |  import Sidebar from "./components/Sidebar";
+  22 |  import ComparePanel from "./components/ComparePanel";
+     |                            ^
+  23 |  import Timeline from "./components/Timeline";
+  24 |  import "./App.css";
+15:20:22 [vite] Internal server error: Failed to resolve import "./components/ComparePanel" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/stas/Desktop/conflict-map/frontend/src/App.jsx:5:25
+  20 |  import FiltersPanel from "./components/FiltersPanel";
+  21 |  import Sidebar from "./components/Sidebar";
+  22 |  import ComparePanel from "./components/ComparePanel";
+     |                            ^
+  23 |  import Timeline from "./components/Timeline";
+  24 |  import "./App.css";
+      at TransformPluginContext._formatLog (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+15:20:31 [vite] (client) hmr update /src/components/Sidebar.jsx
+15:20:31 [vite] (client) Pre-transform error: Failed to resolve import "./components/ComparePanel" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/stas/Desktop/conflict-map/frontend/src/App.jsx:5:25
+  20 |  import FiltersPanel from "./components/FiltersPanel";
+  21 |  import Sidebar from "./components/Sidebar";
+  22 |  import ComparePanel from "./components/ComparePanel";
+     |                            ^
+  23 |  import Timeline from "./components/Timeline";
+  24 |  import "./App.css";
+15:20:31 [vite] Internal server error: Failed to resolve import "./components/ComparePanel" from "src/App.jsx". Does the file exist?
+  Plugin: vite:import-analysis
+  File: /home/stas/Desktop/conflict-map/frontend/src/App.jsx:5:25
+  20 |  import FiltersPanel from "./components/FiltersPanel";
+  21 |  import Sidebar from "./components/Sidebar";
+  22 |  import ComparePanel from "./components/ComparePanel";
+     |                            ^
+  23 |  import Timeline from "./components/Timeline";
+  24 |  import "./App.css";
+      at TransformPluginContext._formatLog (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42658:41)
+      at TransformPluginContext.error (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42655:16)
+      at normalizeUrl (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40634:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+      at async file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40753:37
+      at async Promise.all (index 7)
+      at async TransformPluginContext.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:40680:7)
+      at async EnvironmentPluginContainer.transform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:42453:18)
+      at async loadAndTransform (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:35845:27)
+      at async viteTransformMiddleware (file:///home/stas/Desktop/conflict-map/frontend/node_modules/vite/dist/node/chunks/dep-Dm0c1Wj2.js:37369:24)
+15:20:50 [vite] (client) page reload src/components/ComparePanel.jsx
+[16/Sep/2026 12:20:55] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:20:55] "GET /api/geojson/ HTTP/1.1" 200 90283
+15:20:57 [vite] (client) hmr update /src/components/FiltersPanel.jsx
+[16/Sep/2026 12:21:00] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:21:03] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:21:10] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1805
+15:21:13 [vite] (client) hmr update /src/components/FiltersPanel.jsx
+[16/Sep/2026 12:21:17] "GET /api/conflicts/three-rivers-south-sudan/ HTTP/1.1" 200 1915
+15:21:22 [vite] (client) hmr update /src/App.css
+[16/Sep/2026 12:21:23] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1805
+15:21:28 [vite] (client) hmr update /src/App.css
+15:21:38 [vite] (client) hmr update /src/App.css
+[16/Sep/2026 12:21:52] "GET /api/conflicts/nagorno-karabakh-conflict/ HTTP/1.1" 200 1801
+[16/Sep/2026 12:21:52] "GET /api/conflicts/israel-hamas-war/ HTTP/1.1" 200 2147
+[16/Sep/2026 12:21:52] "GET /api/conflicts/nagorno-karabakh-conflict/ HTTP/1.1" 200 1801
+[16/Sep/2026 12:21:52] "GET /api/conflicts/israel-hamas-war/ HTTP/1.1" 200 2147
+15:22:02 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:22:13 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:22:21 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:22:41 [vite] (client) hmr update /src/App.css
+15:22:56 [vite] (client) hmr update /src/App.css
+15:23:11 [vite] (client) hmr update /src/App.css
+15:23:34 [vite] (client) hmr update /src/App.css
+15:23:48 [vite] (client) hmr update /src/App.css
+15:23:56 [vite] (client) hmr update /src/App.css
+[15:33:55] Backend: запускаю...
+Watching for file changes with StatReloader
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/stas/Desktop/conflict-map/backend/static' in the STATICFILES_DIRS setting does not exist.
+
+System check identified 1 issue (0 silenced).
+[16/Sep/2026 12:33:59] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:33:59] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15:33:59] Backend: готов
+[15:33:59] Frontend: запускаю...
+
+> conflict-map-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v6.4.3  ready in 924 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.43.40:5173/
+[15:34:04] Frontend: готов
+[15:34:04] Открываю браузер: http://localhost:5173
+[15:34:04] Готово. Страница: http://localhost:5173
+[16/Sep/2026 12:34:16] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:34:16] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:34:17] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:34:17] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:34:52] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1805
+[16/Sep/2026 12:47:09] "GET /api/conflicts/ HTTP/1.1" 200 135251
+[16/Sep/2026 12:47:10] "GET /api/stats/ HTTP/1.1" 200 274
+[16/Sep/2026 12:47:28] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 12:49:12] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:13] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:14] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:14] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:19] "GET /api/geojson/ HTTP/1.1" 200 90283
+[15:49:19] Backend: уже запущен (порт 8000)
+[15:49:19] Frontend: уже запущен (порт 5173)
+[15:49:19] Открываю браузер: http://localhost:5173
+[15:49:19] Готово. Страница: http://localhost:5173
+[16/Sep/2026 12:49:28] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:28] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:29] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:29] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:49:36] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 12:49:45] "GET /api/conflicts/myanmar-civil-war/ HTTP/1.1" 200 1998
+15:50:27 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 12:50:29] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:50:33] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:50:53] "GET /api/conflicts/irish-war-independence/ HTTP/1.1" 200 1852
+[16/Sep/2026 12:51:23] "GET /api/conflicts/pacific-war/ HTTP/1.1" 200 2813
+[16/Sep/2026 12:51:35] "GET /api/conflicts/eastern-ukraine-donbas/ HTTP/1.1" 200 1788
+[16/Sep/2026 12:53:28] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 12:53:28] "GET /api/conflicts/eastern-ukraine-donbas/ HTTP/1.1" 200 1788
+[16/Sep/2026 12:53:29] "GET /api/conflicts/eastern-ukraine-donbas/ HTTP/1.1" 200 1788
+[16/Sep/2026 12:53:29] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+15:54:24 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 12:54:27] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:27] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:27] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:27] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:30] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1853
+15:54:40 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 12:54:41] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:41] "GET /api/conflicts/eastern-ukraine-donbas/ HTTP/1.1" 200 1788
+[16/Sep/2026 12:54:44] "GET /api/conflicts/belarus-2020-protests/ HTTP/1.1" 200 2085
+15:54:58 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 12:54:59] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:54:59] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:00] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:00] "GET /api/geojson/ HTTP/1.1" 200 90283
+15:55:08 [vite] (client) hmr update /src/App.jsx
+[16/Sep/2026 12:55:09] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:10] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 12:55:11] "GET /api/conflicts/eastern-ukraine-donbas/ HTTP/1.1" 200 1788
+[16/Sep/2026 12:55:14] "GET /api/conflicts/belarus-2020-protests/ HTTP/1.1" 200 2085
+15:55:15 [vite] (client) hmr update /src/App.jsx
+15:55:28 [vite] (client) hmr update /src/components/ComparePanel.jsx
+[16/Sep/2026 12:55:30] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:30] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:30] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 12:55:30] "GET /api/geojson/ HTTP/1.1" 200 90283
+15:55:54 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:56:00 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:56:08 [vite] (client) hmr update /src/components/ComparePanel.jsx
+15:56:28 [vite] (client) hmr update /src/App.css
+[16/Sep/2026 13:09:28] "GET /api/geojson/ HTTP/1.1" 200 90283
+Not Found: /api/conflicts/chechnya/
+[16/Sep/2026 13:10:24] "GET /api/conflicts/chechnya/ HTTP/1.1" 404 49
+[16/Sep/2026 13:10:29] "GET /api/conflicts/ HTTP/1.1" 200 135251
+[16/Sep/2026 13:10:29] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 13:10:34] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1853
+[16/Sep/2026 13:13:44] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 13:13:44] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 13:13:45] "GET /api/geojson/? HTTP/1.1" 200 90283
+[16/Sep/2026 13:13:45] "GET /api/geojson/ HTTP/1.1" 200 90283
+[16/Sep/2026 13:13:55] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 13:13:57] "GET /api/conflicts/kazakhstan-january-2022/ HTTP/1.1" 200 1868
+[16/Sep/2026 13:13:59] "GET /api/conflicts/m23-offensive/ HTTP/1.1" 200 1948
+[16/Sep/2026 13:14:01] "GET /api/conflicts/mapuche-conflict/ HTTP/1.1" 200 1737
+[16/Sep/2026 13:14:57] "GET /api/conflicts/iran-israel-shadow-war/ HTTP/1.1" 200 1853
+[16/Sep/2026 13:15:04] "GET /api/conflicts/russia-ukraine-war/ HTTP/1.1" 200 2634
+[16/Sep/2026 13:15:08] "GET /api/conflicts/belarus-2020-protests/ HTTP/1.1" 200 2085
+Performing system checks...
+
+September 16, 2026 - 12:33:58
+Django version 6.1.1, using settings 'conflict_map.settings'
+Starting WSGI development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/6.1/howto/deployment/

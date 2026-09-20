@@ -1,0 +1,27 @@
+node_modules/
+.DS_Store
+
+# Frontend build
+frontend/dist/
+
+# Backend build and PyInstaller
+build/
+dist-exe/
+backend/frontend_dist/
+backend/staticfiles/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# DB
+# backend/db.sqlite3 # Uncomment if you want to exclude DB from repo. Keeping it for now if you want a working app right away on clone.
+
+# OS files
+Thumbs.db
