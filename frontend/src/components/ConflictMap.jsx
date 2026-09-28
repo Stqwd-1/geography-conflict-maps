@@ -3,9 +3,9 @@ import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 
 const SEVERITY_COLORS = {
-  global: '#ff2d2d',
-  regional: '#ff8c00',
-  local: '#ffd700',
+  global: '#dc2626',
+  regional: '#ea580c',
+  local: '#eab308',
 };
 
 function ConflictMap({ conflicts, selectedSlug, onSelect, year }) {
@@ -25,9 +25,7 @@ function ConflictMap({ conflicts, selectedSlug, onSelect, year }) {
           osm: {
             type: 'raster',
             tiles: [
-              'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png',
-              'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
-              'https://c.tile.openstreetmap.org/{z}/{x}/{y}.png',
+              'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'
             ],
             tileSize: 256,
             attribution: '© OpenStreetMap contributors',
@@ -37,16 +35,12 @@ function ConflictMap({ conflicts, selectedSlug, onSelect, year }) {
           {
             id: 'osm-bg',
             type: 'background',
-            paint: { 'background-color': '#0d1117' },
+            paint: { 'background-color': '#f4f6f8' },
           },
           {
             id: 'osm',
             type: 'raster',
             source: 'osm',
-            paint: {
-              'raster-opacity': 0.45,
-              'raster-saturation': -1,
-            },
           },
         ],
       },
@@ -91,7 +85,7 @@ function ConflictMap({ conflicts, selectedSlug, onSelect, year }) {
         return;
       }
 
-      const color = SEVERITY_COLORS[c.severity] || '#ffd700';
+      const color = SEVERITY_COLORS[c.severity] || '#eab308';
       const el = document.createElement('div');
       el.className = `conflict-marker conflict-marker-${c.severity}`;
       el.style.backgroundColor = color;
